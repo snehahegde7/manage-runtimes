@@ -1,4 +1,5 @@
-apiVersion: management.ibm.com/v1
+---
+apiVersion: cp4mcmruntimes.management.ibm.com/v1
 kind: Cp4mcmruntime
 metadata:
   name: mqruntime-mq
